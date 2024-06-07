@@ -25,22 +25,22 @@ Welcome to Melody, a simple yet powerful music player built using Python's Tkint
 
 1. *Clone the repository:*
 
-   sh
-   git clone https://github.com/yourusername/music-player.git
-   cd music-player
-   
+   ```sh
+   git clone https://github.com/Leela-Madhav/music-player.git
+   cd Music-Player
+   ```
 
 2. *Install the required libraries:*
 
-   sh
+   ```sh
    pip install pygame mutagen ttkthemes
-   
+   ```
 
 3. *Run the application:*
 
-   sh
+   ```sh
    python music_player.py
-   
+   ```
 
 ## Usage
 
